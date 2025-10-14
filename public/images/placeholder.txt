@@ -1,0 +1,9 @@
+Place your product images in this folder.
+
+Name them as:
+- product1.jpg (main image for product 1)
+- product1-2.jpg (additional image for product 1)
+- product1-3.jpg (additional image for product 1)
+- product2.jpg (main image for product 2)
+- product2-2.jpg (additional image for product 2)
+- And so on...
